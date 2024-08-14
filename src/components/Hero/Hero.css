@@ -1,0 +1,33 @@
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #FFF7E6;
+  }
+  
+  .hero-text h1 {
+    color: #FF6F00;
+  }
+  
+  .hero-text p {
+    color: #666;
+  }
+  
+  .order-button {
+    background-color: #FF9100;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .hero-image {
+    text-align: center;
+  }
+
+  .hero-image img {
+    max-width: 100%;
+    height: auto;
+}
+  
